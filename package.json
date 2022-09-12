@@ -38,13 +38,13 @@
         "name": "Jesper Lekland",
         "email": "jesper.lekland@push2prod.se"
     },
-    "homepage": "https://github.com/JesperLekland/react-native-svg-charts",
+    "homepage": "https://github.com/SabbeAndres/react-native-svg-charts",
     "bugs": {
-        "url": "https://github.com/JesperLekland/react-native-svg-charts/issues"
+        "url": "https://github.com/SabbeAndres/react-native-svg-charts/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/JesperLekland/react-native-svg-charts.git"
+        "url": "git://github.com/SabbeAndres/react-native-svg-charts.git"
     },
     "license": "MIT",
     "dependencies": {
